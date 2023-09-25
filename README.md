@@ -1,11 +1,10 @@
-# Greetings
-
-The [*Linguosynthesis* website](https://linguosynthesis.github.io) focuses on a conjuncture of poetry, philosophy, science fiction and fantasy. You are welcome to visit.
+# You are welcome to visit the [*Linguosynthesis* poetry website](https://linguosynthesis.github.io).
 
 ~/robertoqs/autopoiesis/linguosynthesis<br>
 
-*Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
-*Scrībō ergō sum.*
+&gt; *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
+&gt; *Scrībō ergō sum.*<br>
+&gt; A conjuncture of poetry, philosophy, science fiction and fantasy.
 
 ***
 

@@ -3,7 +3,7 @@
 The [*Linguosynthesis* website](https://linguosynthesis.github.io) focuses on a conjuncture of poetry, philosophy, science fiction and fantasy. You are welcome to visit.
 
 ~/ *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
-~/ *Scrībō ergō sum.*
+~/.../ *Scrībō ergō sum.*
 
 ***
 

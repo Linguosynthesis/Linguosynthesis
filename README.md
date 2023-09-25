@@ -7,4 +7,4 @@ The [*Linguosynthesis* website](https://linguosynthesis.github.io) focuses on a 
 
 ***
 
-&copy; Roberto Quesada
+&copy; [Roberto Quesada](https://writing.exchange/@robertoqs)

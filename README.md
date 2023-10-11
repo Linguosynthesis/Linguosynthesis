@@ -1,11 +1,21 @@
-# [*Linguosynthesis* Poetry Website](https://linguosynthesis.github.io)
+# [Sitio web de poesía *Linguosynthesis*](https://linguosynthesis.github.io/index-en.html)
 
-You are welcome to visit.
+Saludos. Una bienvenida a los visitantes.
 
 ~/robertoqs/autopoiesis/linguosynthesis<br>
 &gt; *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
 &gt; *Scrībō ergō sum.*<br>
-&gt; A conjuncture of poetry, philosophy, science fiction and fantasy.
+&gt; Una coyuntura de poesía, filosofía y ciencia ficción.
+
+# [*Linguosynthesis* Poetry Website](https://linguosynthesis.github.io/)
+
+Greetings. A welcome to visitors.
+
+~/robertoqs/autopoiesis/linguosynthesis<br>
+&gt; *Cōgitō ergō quaerō. Quaerō ergō legō. Legō ergō sum.*<br>
+&gt; *Scrībō ergō sum.*<br>
+&gt; A conjuncture of poetry, philosophy and science fiction.
+
 
 ***
 

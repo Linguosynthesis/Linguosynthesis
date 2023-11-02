@@ -1,11 +1,11 @@
 # [Sitio web de poesía *Linguosynthesis*](https://linguosynthesis.github.io)
 
-Saludos. Una bienvenida a los visitantes. Aquí hay una coyuntura de poesía, filosofía y ciencia ficción.
+Saludos. Aquí hay una coyuntura de poesía, filosofía y ciencia ficción.
 
 
 # [*Linguosynthesis* Poetry Website](https://linguosynthesis.github.io/english.html)
 
-Greetings. A welcome to visitors. Here is a conjuncture of poetry, philosophy and science fiction.
+Greetings. Here is a conjuncture of poetry, philosophy and science fiction.
 
 ***
 
